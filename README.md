@@ -1,1 +1,1 @@
-Microservice oriented Mask Tracking Project from Engin Demiog Camp Lesson.
+Microservice oriented Mask Tracking Project from Engin Demirog Camp Lesson.
